@@ -63,41 +63,79 @@ class NitishKumar:
 
 ---
 
-# ⚔️ CYBERSECURITY SKILLS
+# ⚡ Technical Arsenal ⚡
+
+## 🔐 Cybersecurity Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,js,php,linux,docker,mysql,mongodb,git,github,vscode" />
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-black?style=for-the-badge&logo=hackthebox&logoColor=red" />
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-black?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/WEB%20SECURITY-black?style=for-the-badge&logo=googlechrome&logoColor=orange" />
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-black?style=for-the-badge&logo=cisco&logoColor=0099ff" />
+<img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-black?style=for-the-badge&logo=virustotal&logoColor=purple" />
+<img src="https://img.shields.io/badge/OSINT-black?style=for-the-badge&logo=torbrowser&logoColor=00ffff" />
+<img src="https://img.shields.io/badge/CTF%20PLAYER-black?style=for-the-badge&logo=tryhackme&logoColor=ff4da6" />
 
 </div>
 
 ---
 
-# 🛠️ HACKING TOOLS
+## 💻 Languages
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=target&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=hackaday&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue" />
-<img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00" />
+<img src="https://skillicons.dev/icons?i=python,bash,js,linux,vscode" />
 
 </div>
 
 ---
 
-# 📊 GITHUB STATS
+## 🛠️ Tools
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishbhai7360&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+<img src="https://img.shields.io/badge/Burp%20Suite-black?style=for-the-badge&logo=burpsuite&logoColor=orange" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-black?style=for-the-badge&logo=owasp&logoColor=blue" />
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=0099ff" />
+<img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge&logo=sqlite&logoColor=red" />
+<img src="https://img.shields.io/badge/Nikto-black?style=for-the-badge&logo=ghost&logoColor=white" />
+<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge&logo=databricks&logoColor=ff00ff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishbhai7360&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+<img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge&logo=go&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Subfinder-black?style=for-the-badge&logo=target&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Assetfinder-black?style=for-the-badge&logo=searchengin&logoColor=0099ff" />
+<img src="https://img.shields.io/badge/Amass-black?style=for-the-badge&logo=apache&logoColor=orange" />
+<img src="https://img.shields.io/badge/Httpx-black?style=for-the-badge&logo=httpie&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Nuclei-black?style=for-the-badge&logo=target&logoColor=00ffaa" />
+<img src="https://img.shields.io/badge/XSStrike-black?style=for-the-badge&logo=x&logoColor=red" />
+
+<img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=0099ff" />
+<img src="https://img.shields.io/badge/BeEF-black?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Mimikatz-black?style=for-the-badge&logo=ghost&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/John%20The%20Ripper-black?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/LinPEAS-black?style=for-the-badge&logo=linux&logoColor=green" />
+<img src="https://img.shields.io/badge/Enum4linux-black?style=for-the-badge&logo=windows&logoColor=0099ff" />
+
+<img src="https://img.shields.io/badge/Cobalt%20Strike-black?style=for-the-badge&logo=hackthebox&logoColor=orange" />
+<img src="https://img.shields.io/badge/Social--Engineer%20Toolkit-black?style=for-the-badge&logo=securityscorecard&logoColor=0099ff" />
+<img src="https://img.shields.io/badge/TheHarvester-black?style=for-the-badge&logo=hackaday&logoColor=red" />
+<img src="https://img.shields.io/badge/DNSRecon-black?style=for-the-badge&logo=icloud&logoColor=purple" />
+<img src="https://img.shields.io/badge/Masscan-black?style=for-the-badge&logo=speedtest&logoColor=00ccff" />
+<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux&logoColor=0099ff" />
+<img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge&logo=firefoxbrowser&logoColor=purple" />
+
+<img src="https://img.shields.io/badge/CloudEnum-black?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Shodan-black?style=for-the-badge&logo=shodan&logoColor=red" />
+<img src="https://img.shields.io/badge/TruffleHog-black?style=for-the-badge&logo=ghost&logoColor=brown" />
+<img src="https://img.shields.io/badge/Gitleaks-black?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/CFF%20Explorer-black?style=for-the-badge&logo=windows&logoColor=green" />
+<img src="https://img.shields.io/badge/PEStudio-black?style=for-the-badge&logo=windows&logoColor=00ccff" />
+<img src="https://img.shields.io/badge/CyberChef-black?style=for-the-badge&logo=chef&logoColor=white" />
 
 </div>
-
 ---
 
 # 🔥 GITHUB STREAK
@@ -160,21 +198,26 @@ class NitishKumar:
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/nitish-kumar-85835b389/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
+<a href="https://x.com/nitishbhai7360">
+<img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://portfolio-livid-iota-e4saycgr44.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff00" />
+</a>
+
+<a href="https://medium.com/@nitishbhai7360">
+<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
 ---
 
-# 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nitishbhai7360/nitishbhai7360/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
 
 "The quieter you become, The more you are able to hear."
 
