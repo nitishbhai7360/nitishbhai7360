@@ -70,16 +70,16 @@ class NitishKumar:
 ## 🔐 Cybersecurity Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/PENETRATION%20TESTING-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff0000" height="80"/>
-<img src="https://img.shields.io/badge/BUG%20BOUNTY-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" height="80"/>
-<img src="https://img.shields.io/badge/WEB%20SECURITY-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffaa00" height="80"/>
-<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0d1117?style=for-the-badge&logo=cisco&logoColor=00aaff" height="80"/>
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff0000" height="100"/>
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" height="100"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffaa00" height="100"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0d1117?style=for-the-badge&logo=cisco&logoColor=00aaff" height="100"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-0d1117?style=for-the-badge&logo=virustotal&logoColor=bb00ff" height="80"/>
-<img src="https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=torbrowser&logoColor=00ffff" height="80"/>
-<img src="https://img.shields.io/badge/CTF%20PLAYER-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff0099" height="80"/>
+<img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-0d1117?style=for-the-badge&logo=virustotal&logoColor=bb00ff" height="100"/>
+<img src="https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=torbrowser&logoColor=00ffff" height="100"/>
+<img src="https://img.shields.io/badge/CTF%20PLAYER-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff0099" height="100"/>
 </p>
 
 ---
