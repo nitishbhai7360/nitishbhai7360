@@ -63,11 +63,11 @@ class NitishKumar:
 
 ---
 
+<div align="center">
+
 # ⚡ Technical Arsenal ⚡
 
 ## 🔐 Cybersecurity Skills
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/PENETRATION%20TESTING-black?style=for-the-badge&logo=hackthebox&logoColor=red" />
 <img src="https://img.shields.io/badge/BUG%20BOUNTY-black?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" />
@@ -77,23 +77,15 @@ class NitishKumar:
 <img src="https://img.shields.io/badge/OSINT-black?style=for-the-badge&logo=torbrowser&logoColor=00ffff" />
 <img src="https://img.shields.io/badge/CTF%20PLAYER-black?style=for-the-badge&logo=tryhackme&logoColor=ff4da6" />
 
-</div>
-
 ---
 
 ## 💻 Languages
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,bash,js,linux,vscode" />
-
-</div>
 
 ---
 
 ## 🛠️ Tools
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/Burp%20Suite-black?style=for-the-badge&logo=burpsuite&logoColor=orange" />
 <img src="https://img.shields.io/badge/OWASP%20ZAP-black?style=for-the-badge&logo=owasp&logoColor=blue" />
@@ -126,14 +118,6 @@ class NitishKumar:
 <img src="https://img.shields.io/badge/Masscan-black?style=for-the-badge&logo=speedtest&logoColor=00ccff" />
 <img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux&logoColor=0099ff" />
 <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge&logo=firefoxbrowser&logoColor=purple" />
-
-<img src="https://img.shields.io/badge/CloudEnum-black?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Shodan-black?style=for-the-badge&logo=shodan&logoColor=red" />
-<img src="https://img.shields.io/badge/TruffleHog-black?style=for-the-badge&logo=ghost&logoColor=brown" />
-<img src="https://img.shields.io/badge/Gitleaks-black?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/CFF%20Explorer-black?style=for-the-badge&logo=windows&logoColor=green" />
-<img src="https://img.shields.io/badge/PEStudio-black?style=for-the-badge&logo=windows&logoColor=00ccff" />
-<img src="https://img.shields.io/badge/CyberChef-black?style=for-the-badge&logo=chef&logoColor=white" />
 
 </div>
 ---
