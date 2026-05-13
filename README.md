@@ -67,82 +67,64 @@ class NitishKumar:
 
 # ⚡ Technical Arsenal ⚡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
-
 ## 🔐 Cybersecurity Skills
 
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/hacker.png"/><br><b>Penetration Testing</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/bug.png"/><br><b>Bug Bounty</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/web.png"/><br><b>Web Security</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/network.png"/><br><b>Network Security</b></td>
-</tr>
+<p align="center">
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff0000" height="40"/>
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" height="40"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffaa00" height="40"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0d1117?style=for-the-badge&logo=cisco&logoColor=00aaff" height="40"/>
+</p>
 
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/malware.png"/><br><b>Malware Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/search.png"/><br><b>OSINT</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/controller.png"/><br><b>CTF Player</b></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-0d1117?style=for-the-badge&logo=virustotal&logoColor=bb00ff" height="40"/>
+<img src="https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=torbrowser&logoColor=00ffff" height="40"/>
+<img src="https://img.shields.io/badge/CTF%20PLAYER-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff0099" height="40"/>
+</p>
 
 ---
 
-# 💻 Languages
+## 💻 Languages
 
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="90"/><br><b>Python</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" width="90"/><br><b>Bash</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="90"/><br><b>JavaScript</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="90"/><br><b>Linux</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="90"/><br><b>VS Code</b>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" height="65"/>
+<img src="https://skillicons.dev/icons?i=bash" height="65"/>
+<img src="https://skillicons.dev/icons?i=js" height="65"/>
+<img src="https://skillicons.dev/icons?i=linux" height="65"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="65"/>
+</p>
 
 ---
 
-# 🛠️ Tools
+## 🛠️ Tools
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="70"/><br>Burp Suite</td>
-<td align="center"><img src="https://img.icons8.com/color/96/security-checked.png" width="70"/><br>OWASP ZAP</td>
-<td align="center"><img src="https://img.icons8.com/color/96/radar.png" width="70"/><br>Nmap</td>
-<td align="center"><img src="https://img.icons8.com/color/96/shark.png" width="70"/><br>Wireshark</td>
-<td align="center"><img src="https://img.icons8.com/color/96/database.png" width="70"/><br>SQLMap</td>
-</tr>
+<p align="center">
 
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/search.png" width="70"/><br>Nikto</td>
-<td align="center"><img src="https://img.icons8.com/color/96/folder-invoices.png" width="70"/><br>Dirsearch</td>
-<td align="center"><img src="https://img.icons8.com/color/96/cube.png" width="70"/><br>Gobuster</td>
-<td align="center"><img src="https://img.icons8.com/color/96/target.png" width="70"/><br>Subfinder</td>
-<td align="center"><img src="https://img.icons8.com/color/96/search-client.png" width="70"/><br>Assetfinder</td>
-</tr>
+<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=orange" height="38"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-0d1117?style=for-the-badge&logo=owasp&logoColor=blue" height="38"/>
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" height="38"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=0099ff" height="38"/>
+<img src="https://img.shields.io/badge/SQLMap-0d1117?style=for-the-badge&logo=sqlite&logoColor=ff0000" height="38"/>
 
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/share.png" width="70"/><br>Amass</td>
-<td align="center"><img src="https://img.icons8.com/color/96/web.png" width="70"/><br>Httpx</td>
-<td align="center"><img src="https://img.icons8.com/color/96/goal.png" width="70"/><br>Nuclei</td>
-<td align="center"><img src="https://img.icons8.com/color/96/x.png" width="70"/><br>XSStrike</td>
-<td align="center"><img src="https://img.icons8.com/color/96/hacker.png" width="70"/><br>Metasploit</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Nikto-0d1117?style=for-the-badge&logo=ghost&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/Dirsearch-0d1117?style=for-the-badge&logo=databricks&logoColor=ff00ff" height="38"/>
+<img src="https://img.shields.io/badge/Gobuster-0d1117?style=for-the-badge&logo=go&logoColor=00ff00" height="38"/>
+<img src="https://img.shields.io/badge/Subfinder-0d1117?style=for-the-badge&logo=target&logoColor=00ff00" height="38"/>
+<img src="https://img.shields.io/badge/Assetfinder-0d1117?style=for-the-badge&logo=searchengin&logoColor=00aaff" height="38"/>
+
+<img src="https://img.shields.io/badge/Amass-0d1117?style=for-the-badge&logo=apache&logoColor=ffaa00" height="38"/>
+<img src="https://img.shields.io/badge/Httpx-0d1117?style=for-the-badge&logo=httpie&logoColor=00ff00" height="38"/>
+<img src="https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&logo=target&logoColor=00ffaa" height="38"/>
+<img src="https://img.shields.io/badge/XSStrike-0d1117?style=for-the-badge&logo=x&logoColor=ff0000" height="38"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=hackaday&logoColor=0099ff" height="38"/>
+
+<img src="https://img.shields.io/badge/BeEF-0d1117?style=for-the-badge&logo=hackaday&logoColor=ffffff" height="38"/>
+<img src="https://img.shields.io/badge/Mimikatz-0d1117?style=for-the-badge&logo=ghost&logoColor=00ff00" height="38"/>
+<img src="https://img.shields.io/badge/Hydra-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=00ff00" height="38"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00aaff" height="38"/>
+<img src="https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=bb00ff" height="38"/>
+
+</p>
 
 </div>
 ---
