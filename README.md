@@ -70,16 +70,16 @@ class NitishKumar:
 ## 🔐 Cybersecurity Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/PENETRATION%20TESTING-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff0000" height="50"/>
-<img src="https://img.shields.io/badge/BUG%20BOUNTY-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" height="50"/>
-<img src="https://img.shields.io/badge/WEB%20SECURITY-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffaa00" height="50"/>
-<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0d1117?style=for-the-badge&logo=cisco&logoColor=00aaff" height="50"/>
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff0000" height="60"/>
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=00ff00" height="60"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ffaa00" height="60"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0d1117?style=for-the-badge&logo=cisco&logoColor=00aaff" height="60"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-0d1117?style=for-the-badge&logo=virustotal&logoColor=bb00ff" height="50"/>
-<img src="https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=torbrowser&logoColor=00ffff" height="50"/>
-<img src="https://img.shields.io/badge/CTF%20PLAYER-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff0099" height="50"/>
+<img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-0d1117?style=for-the-badge&logo=virustotal&logoColor=bb00ff" height="60"/>
+<img src="https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=torbrowser&logoColor=00ffff" height="60"/>
+<img src="https://img.shields.io/badge/CTF%20PLAYER-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff0099" height="60"/>
 </p>
 
 ---
@@ -87,11 +87,11 @@ class NitishKumar:
 ## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="85"/>
-<img src="https://skillicons.dev/icons?i=bash" height="85"/>
-<img src="https://skillicons.dev/icons?i=js" height="85"/>
-<img src="https://skillicons.dev/icons?i=linux" height="85"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="85"/>
+<img src="https://skillicons.dev/icons?i=python" height="95"/>
+<img src="https://skillicons.dev/icons?i=bash" height="95"/>
+<img src="https://skillicons.dev/icons?i=js" height="95"/>
+<img src="https://skillicons.dev/icons?i=linux" height="95"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="95"/>
 </p>
 
 ---
@@ -100,29 +100,29 @@ class NitishKumar:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=orange" height="45"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-0d1117?style=for-the-badge&logo=owasp&logoColor=blue" height="45"/>
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" height="45"/>
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=0099ff" height="45"/>
-<img src="https://img.shields.io/badge/SQLMap-0d1117?style=for-the-badge&logo=sqlite&logoColor=ff0000" height="45"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=orange" height="55"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-0d1117?style=for-the-badge&logo=owasp&logoColor=blue" height="55"/>
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" height="55"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=0099ff" height="55"/>
+<img src="https://img.shields.io/badge/SQLMap-0d1117?style=for-the-badge&logo=sqlite&logoColor=ff0000" height="55"/>
 
 <img src="https://img.shields.io/badge/Nikto-0d1117?style=for-the-badge&logo=ghost&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/Dirsearch-0d1117?style=for-the-badge&logo=databricks&logoColor=ff00ff" height="45"/>
-<img src="https://img.shields.io/badge/Gobuster-0d1117?style=for-the-badge&logo=go&logoColor=00ff00" height="45"/>
-<img src="https://img.shields.io/badge/Subfinder-0d1117?style=for-the-badge&logo=target&logoColor=00ff00" height="45"/>
-<img src="https://img.shields.io/badge/Assetfinder-0d1117?style=for-the-badge&logo=searchengin&logoColor=00aaff" height="45"/>
+<img src="https://img.shields.io/badge/Dirsearch-0d1117?style=for-the-badge&logo=databricks&logoColor=ff00ff" height="55"/>
+<img src="https://img.shields.io/badge/Gobuster-0d1117?style=for-the-badge&logo=go&logoColor=00ff00" height="55"/>
+<img src="https://img.shields.io/badge/Subfinder-0d1117?style=for-the-badge&logo=target&logoColor=00ff00" height="55"/>
+<img src="https://img.shields.io/badge/Assetfinder-0d1117?style=for-the-badge&logo=searchengin&logoColor=00aaff" height="55"/>
 
-<img src="https://img.shields.io/badge/Amass-0d1117?style=for-the-badge&logo=apache&logoColor=ffaa00" height="45"/>
-<img src="https://img.shields.io/badge/Httpx-0d1117?style=for-the-badge&logo=httpie&logoColor=00ff00" height="45"/>
-<img src="https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&logo=target&logoColor=00ffaa" height="45"/>
+<img src="https://img.shields.io/badge/Amass-0d1117?style=for-the-badge&logo=apache&logoColor=ffaa00" height="55"/>
+<img src="https://img.shields.io/badge/Httpx-0d1117?style=for-the-badge&logo=httpie&logoColor=00ff00" height="55"/>
+<img src="https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&logo=target&logoColor=00ffaa" height="55"/>
 <img src="https://img.shields.io/badge/XSStrike-0d1117?style=for-the-badge&logo=x&logoColor=ff0000" height="45"/>
-<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=hackaday&logoColor=0099ff" height="45"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=hackaday&logoColor=0099ff" height="55"/>
 
-<img src="https://img.shields.io/badge/BeEF-0d1117?style=for-the-badge&logo=hackaday&logoColor=ffffff" height="45"/>
-<img src="https://img.shields.io/badge/Mimikatz-0d1117?style=for-the-badge&logo=ghost&logoColor=00ff00" height="45"/>
-<img src="https://img.shields.io/badge/Hydra-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=00ff00" height="45"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00aaff" height="45"/>
-<img src="https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=bb00ff" height="45"/>
+<img src="https://img.shields.io/badge/BeEF-0d1117?style=for-the-badge&logo=hackaday&logoColor=ffffff" height="55"/>
+<img src="https://img.shields.io/badge/Mimikatz-0d1117?style=for-the-badge&logo=ghost&logoColor=00ff00" height="55"/>
+<img src="https://img.shields.io/badge/Hydra-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=00ff00" height="55"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00aaff" height="55"/>
+<img src="https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=bb00ff" height="55"/>
 
 </p>
 
