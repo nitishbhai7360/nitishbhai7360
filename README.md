@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:00ff00&text=NITISH%20KUMAR&fontColor=00ff00&fontSize=60&animation=fadeIn&fontAlignY=38&desc=ETHICAL%20HACKER%20|%20BUG%20BOUNTY%20HUNTER%20|%20SECURITY%20RESEARCHER&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:00ff00&text=NITISH%20MUKHIYA&fontColor=00ff00&fontSize=60&animation=fadeIn&fontAlignY=38&desc=ETHICAL%20HACKER%20|%20BUG%20BOUNTY%20HUNTER%20|%20SECURITY%20RESEARCHER&descAlignY=60&descSize=20" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=80&lines=⚡+WELCOME+TO+MY+CYBER+WORLD+⚡;BUG+BOUNTY+HUNTER;WEB+APPLICATION+PENTESTER;CTF+PLAYER;ETHICAL+HACKER;SECURITY+RESEARCHER" />
 
-<img src="https://komarev.com/ghpvc/?username=nitishbhai7360&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/nitishbhai7360?style=for-the-badge&color=00ff00&labelColor=black" />
-<img src="https://img.shields.io/github/stars/nitishbhai7360?style=for-the-badge&color=00ff00&labelColor=black" />
+<img src="https://komarev.com/ghpvc/?username=nitishmukhiyaji&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nitishmukhiyaji?style=for-the-badge&color=00ff00&labelColor=black" />
+<img src="https://img.shields.io/github/stars/nitishmukhiyaji?style=for-the-badge&color=00ff00&labelColor=black" />
 
 </div>
 
@@ -18,7 +18,7 @@
 ┌──(root㉿nitish)-[~/system]
 └─$ whoami
 
-Name     : Nitish Kumar
+Name     : Nitish Mukhiya
 Role     : Ethical Hacker
 Country  : India
 Focus    : Bug Bounty & Pentesting
@@ -31,10 +31,10 @@ Status   : Hack The Planet ⚡
 # 🧠 ABOUT ME
 
 ```python
-class NitishKumar:
+class NitishMukhiya:
 
     def __init__(self):
-        self.name = "Nitish Kumar"
+        self.name = "Nitish Mukhiya"
         self.role = "Security Researcher"
         self.language = ["Python", "JavaScript", "Bash"]
 
@@ -133,7 +133,7 @@ class NitishKumar:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishbhai7360&theme=chartreuse-dark&hide_border=true&background=000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishmukhiyaji&theme=chartreuse-dark&hide_border=true&background=000000" />
 
 </div>
 
@@ -143,7 +143,7 @@ class NitishKumar:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitishbhai7360&theme=matrix&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=nitishmukhiyaji&theme=matrix&no-frame=true&margin-w=15" />
 
 </div>
 
@@ -153,7 +153,7 @@ class NitishKumar:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishbhai7360&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishmukhiyaji&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -185,11 +185,11 @@ class NitishKumar:
 
 <div align="center">
 
-<a href="https://github.com/nitishbhai7360">
+<a href="https://github.com/nitishmukhiyaji">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/nitish-kumar-85835b389/">
+<a href="https://www.linkedin.com/in/nitishmukhiya/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
@@ -201,7 +201,7 @@ class NitishKumar:
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff00" />
 </a>
 
-<a href="https://medium.com/@nitishbhai7360">
+<a href="https://medium.com/@nitishmukhiya">
 <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
@@ -212,6 +212,6 @@ class NitishKumar:
 
 "The quieter you become, The more you are able to hear."
 
-⚡ NITISH KUMAR ⚡
+⚡ NITISH MUKHIYA ⚡
 
 </div>
