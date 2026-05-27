@@ -166,7 +166,7 @@ class NitishMukhiya:
 > Access Granted ✅
 > Loading Recon Modules...
 > Bug Bounty Mode Activated ⚡
-> Welcome Back Nitish Kumar
+> Welcome Back Nitish Mukhiya
 ```
 
 ---
